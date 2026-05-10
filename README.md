@@ -113,34 +113,6 @@ The dataset contains various economic indicators used for analysis and visualiza
 
 ---
 
-# ▶️ How to Run This Project
-
-## Step 1: Clone Repository
-
-```bash
-git clone https://github.com/ManishaNagar/Economic-Indicators-EDA.git
-```
-
-## Step 2: Navigate to Project Folder
-
-```bash
-cd Economic-Indicators-EDA
-```
-
-## Step 3: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Step 4: Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-
----
 
 # 🎯 Learning Outcomes
 
